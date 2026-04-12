@@ -52,8 +52,5 @@ This project focuses on building and extending a **SQL-based data warehouse** an
 ## 🚀 Outcome  
 Successfully transformed raw data into structured insights using SQL, improving the ability to **analyze, interpret, and make data-driven decisions** effectively.
 
-## 📁 Project Structure *(Optional)*  
-- SQL Scripts  
-- Queries for Analysis  
-- Reports / Output Files  
+ 
  
